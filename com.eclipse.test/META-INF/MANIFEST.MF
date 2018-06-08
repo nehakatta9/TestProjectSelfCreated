@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test
+Bundle-SymbolicName: com.eclipse.test
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: ECLIPSE
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
